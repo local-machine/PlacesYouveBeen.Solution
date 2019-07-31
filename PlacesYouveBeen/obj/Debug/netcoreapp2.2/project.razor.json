@@ -2943,28 +2943,28 @@
   "RootNamespace": "PlacesYouveBeen",
   "Documents": [
     {
-      "FilePath": "Views/Places/DeleteAll copy.cshtml",
-      "TargetPath": "Views/Places/DeleteAll copy.cshtml",
+      "FilePath": "Views/Places/DeleteAll.cshtml",
+      "TargetPath": "Views/Places/DeleteAll.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Places/Show copy.cshtml",
-      "TargetPath": "Views/Places/Show copy.cshtml",
+      "FilePath": "Views/Places/CreateForm.cshtml",
+      "TargetPath": "Views/Places/CreateForm.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Places/CreateForm copy.cshtml",
-      "TargetPath": "Views/Places/CreateForm copy.cshtml",
+      "FilePath": "Views/Places/Show.cshtml",
+      "TargetPath": "Views/Places/Show.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Places/Index copy.cshtml",
-      "TargetPath": "Views/Places/Index copy.cshtml",
+      "FilePath": "Views/Places/New.cshtml",
+      "TargetPath": "Views/Places/New.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Places/New copy.cshtml",
-      "TargetPath": "Views/Places/New copy.cshtml",
+      "FilePath": "Views/Places/Index.cshtml",
+      "TargetPath": "Views/Places/Index.cshtml",
       "FileKind": "mvc"
     },
     {

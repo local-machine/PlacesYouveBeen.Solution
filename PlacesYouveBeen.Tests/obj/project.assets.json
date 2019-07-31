@@ -1662,6 +1662,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "PlacesYouveBeen/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/PlacesYouveBeen.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlacesYouveBeen.dll": {}
+        }
       }
     }
   },
@@ -5802,6 +5812,11 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "PlacesYouveBeen/1.0.0": {
+      "type": "project",
+      "path": "../PlacesYouveBeen/PlacesYouveBeen.csproj",
+      "msbuildProject": "../PlacesYouveBeen/PlacesYouveBeen.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5809,7 +5824,8 @@
       "MSTest.TestAdapter >= 1.2.0",
       "MSTest.TestFramework >= 1.2.0",
       "Microsoft.NET.Test.Sdk >= 15.0.0",
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "PlacesYouveBeen >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5839,7 +5855,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/Guest/Desktop/PlacesYouveBeen.Solution/PlacesYouveBeen/PlacesYouveBeen.csproj": {
+              "projectPath": "/Users/Guest/Desktop/PlacesYouveBeen.Solution/PlacesYouveBeen/PlacesYouveBeen.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
